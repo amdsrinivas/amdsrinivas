@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="amdsrinivas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amdsrinivas&show_icons=true&hide_border=true" />
+
+</details>
 <!--
 **amdsrinivas/amdsrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
