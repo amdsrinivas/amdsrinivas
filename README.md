@@ -22,8 +22,6 @@ I'm a seasoned software engineer with a diverse background in building robust ba
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on a prototype for community driven people discovery app -- Currently stealth. More details soon.  
   
 
@@ -31,9 +29,6 @@ I'm a seasoned software engineer with a diverse background in building robust ba
   
 
 - ⚡ Fun fact: I like to write fiction in my free time. Currently writing a crime drama.  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -70,15 +65,8 @@ I'm a seasoned software engineer with a diverse background in building robust ba
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdsrinivas&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
